@@ -18,9 +18,9 @@ body {
 }
 
 .App {
-  display: flex;
+  display: flex-start;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex;
   align-items: center;
   height: 100vh; 
   width: 100%; 
